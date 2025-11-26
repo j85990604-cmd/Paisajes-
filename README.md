@@ -411,10 +411,3 @@
 </body>
 </html>
 
-![1000008846](https://github.com/user-attachments/assets/c20bc44f-b963-4ce2-833a-13b3aced4eaf)
-![1000008848](https://github.com/user-attachments/assets/0fc18c5a-8c9b-41c9-b8ea-d26108cf256d)
-![1000008847](https://github.com/user-attachments/assets/786e4e9d-1afa-4f61-a5fa-d251be82add1)
-![1000008850](https://github.com/user-attachments/assets/fe058052-c4c9-479a-b65f-5b8210b6734b)
-![1000008849](https://github.com/user-attachments/assets/ffd7c56a-b231-4c07-89b1-a62ad0e31eaf)
-![1000008851](https://github.com/user-attachments/assets/563f80f3-fe4d-44c0-a0ab-ae7107a7c740)
-![1000008852](https://github.com/user-attachments/assets/b6df9975-b0bc-40fb-8a24-70b1dad40a54)
